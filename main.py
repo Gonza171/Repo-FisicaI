@@ -44,3 +44,5 @@ while True:
             print("-" * 50)
         except Exception as e:
             print(f"Error al conectar con Gemini: {e}")
+
+print("Skibidi")
