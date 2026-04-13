@@ -46,3 +46,5 @@ while True:
             print(f"Error al conectar con Gemini: {e}")
 
 print("Skibidi")
+print("Holaa mundooo")
+
